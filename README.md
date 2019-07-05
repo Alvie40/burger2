@@ -1,6 +1,19 @@
 Burger 2: The Sequel
 
+
+Demo:
+https://immense-refuge-77346.herokuapp.com
+
+Portfolio:
+https://alvie40.github.io/Responsive-Portfolio/portfolio.html
+
+Github:
+https://github.com/Alvie40/burger2
+
+
 ### Overview
+
+
 
 This homework assignment is **required**.
 
