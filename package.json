@@ -8,15 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kangkang0804/burger2sequelize.git"
+  
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kangkang0804/burger2sequelize/issues"
-  },
-  "homepage": "https://github.com/kangkang0804/burger2sequelize#readme",
+ 
+ 
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
